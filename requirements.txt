@@ -2,3 +2,4 @@ Pillow==9.5.0
 py_avataaars==1.1.2
 streamlit==1.22.0
 streamlit_lottie==0.0.3
+cairocffi
